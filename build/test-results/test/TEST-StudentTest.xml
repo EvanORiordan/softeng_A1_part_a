@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StudentTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-27T13:06:29" hostname="DESKTOP-VV4O195" time="0.088">
+<testsuite name="StudentTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-27T14:11:36" hostname="DESKTOP-VV4O195" time="0.087">
   <properties/>
-  <testcase name="test2_getUsername()" classname="StudentTest" time="0.084"/>
-  <testcase name="test1_getUsername()" classname="StudentTest" time="0.003"/>
+  <testcase name="test2_getUsername()" classname="StudentTest" time="0.081"/>
+  <testcase name="test1_getUsername()" classname="StudentTest" time="0.004"/>
   <system-out><![CDATA[Expected result: JohnMichael21
 Actual result: JohnMichael21
 
